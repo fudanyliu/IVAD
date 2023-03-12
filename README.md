@@ -27,6 +27,6 @@ To promote research on video anomaly detection in industrial scenarios and devel
 
 ## Download
 
-- Raw data can be found in Google drive.
+- Raw data will be uploaded to Google drive.
 
 - All the collated data and labels will be publicly avaiable after the paper is accepted.
