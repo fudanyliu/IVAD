@@ -1,6 +1,6 @@
 # IVAD: Industrial Video Anomaly Detection Dataset
 
-![examples.png](C:\Users\86188\Desktop\datasets\Git\examples.png)
+![examples.png](.\examples.png)
 
 ## Introduction
 
